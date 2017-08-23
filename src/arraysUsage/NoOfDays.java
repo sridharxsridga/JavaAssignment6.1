@@ -1,9 +1,9 @@
 /* 
- * This program is to generate the number of days in a given month
+ * 
  * 		Problem Statement 3:  Using two arrays, one to store the names of months and the other one to
 		store the days in each month, write a program to find the number of days in a
 		given month.
- * 
+ *      This program is to generate the number of days in a given month
  */
 
 package arraysUsage;

@@ -1,5 +1,5 @@
 /*
- *	Problem Statement: Declare and initialize an integer array of size 10.
+ *	Problem Statement 2: Declare and initialize an integer array of size 10.
 	Fill it with only prime numbers. (step-1) Create another integer array of size
 	10 and copy the values of first array into second array in the reverse order
 	and print them. (step-2)
